@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <time.h>
-#include "restaurante.h"
+#include "restaurantes.h"
 
 // Variables globales
 struct ColaPedidos cola;
